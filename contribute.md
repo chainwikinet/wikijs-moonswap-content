@@ -2,9 +2,9 @@
 title: Wiki Contribution Guide
 description: how create and edit content on the wiki
 published: true
-date: 2020-09-21T11:55:11.293Z
+date: 2020-09-28T08:40:26.161Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-08-21T08:15:02.963Z
 ---
 
@@ -21,7 +21,7 @@ Some changes to the site, like adding your new page to the navigation sidebar, w
 
 # Contribute with GitHub
 
-The contents of the wiki are automatically synchronized with this repository in GitHub: https://github.com/chainwikinet/
+The contents of the wiki are automatically synchronized with this repository in GitHub: https://github.com/chainwikinet/wikijs-moonswap-content
 
 Sign up for a GitHub account.  Then, use the GitHub UI to propose changes to the content.  When you are satisfied with your changes, submit a "pull request" to request that your changes are merged into the wiki.
 
